@@ -1,0 +1,12 @@
+.buttons{
+    height: 40vh;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.buttons button{
+    border: 0.5px black solid;
+    margin: 0.5px;
+}
+.result{
+    background-color: orange;
+}
